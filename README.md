@@ -36,4 +36,4 @@ Over the last several weeks, there have many petitions, This website is an attem
 
 Have something to add? Is your program, department, or school working on something? [Send me the link and a short description me know via email](mailto:conlonnovak+demand-cmu@cmu.edu) or [submit a pull request](https://opensource.com/article/19/7/create-pull-request-github) to [this site's repo](https://github.com/ConlonNovak/demand-cmu-support/) with the change.
 
-Other questions? [Send me an email](mailto:conlonnovak+demand-cmu@cmu.edu) or find at [@Conlon_Novak](https://twitter.com/Conlon_Novak)
+Other questions? [Send me an email](mailto:conlonnovak+demand-cmu@cmu.edu) or message [@Conlon_Novak](https://twitter.com/Conlon_Novak)
