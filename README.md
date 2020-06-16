@@ -3,7 +3,7 @@
 Over the last several weeks, there have many petitions, letters, and calls to action aimed at improving CMU. This website is an attempt to create a centralized list of resources, petitions, and concrete actions being put forward by concerned students, alumni, faculty, and staff.
 
 ## Resources
-[Higher Ed’s Toothless Response to the Killing of George Floyd](https://www.chronicle.com/article/Higher-Ed-s-Toothless/248946?key=wYmokCnDzR4h9eFNudrs4jyjFBQ0SJj_RjRK70rCNPT3LG0q7DwKXlirrTVnsPeDQi1qcGJ3RVVDSElMN19nU1lKRnd2M3FleTZEXzBZazZZT1RoZVluZVlEYw&fbclid=IwAR2TrW6Bg_BNliv0J_pLn6KUAIPaBvmBeuvIdTx6jSkkDveTl2u4OWU1olc) written by Dietrich Professors Jason England and Richard Purcell
+* [Higher Ed’s Toothless Response to the Killing of George Floyd](https://www.chronicle.com/article/Higher-Ed-s-Toothless/248946?key=wYmokCnDzR4h9eFNudrs4jyjFBQ0SJj_RjRK70rCNPT3LG0q7DwKXlirrTVnsPeDQi1qcGJ3RVVDSElMN19nU1lKRnd2M3FleTZEXzBZazZZT1RoZVluZVlEYw&fbclid=IwAR2TrW6Bg_BNliv0J_pLn6KUAIPaBvmBeuvIdTx6jSkkDveTl2u4OWU1olc), written by Dietrich Professors Jason England and Richard Purcell
 
 ## University-Wide Actions  
 
