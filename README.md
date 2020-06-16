@@ -1,32 +1,39 @@
-# Demand Change at Carnegie Mellon University
+# Demand Change at CMU
  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Over the last several weeks, there have many petitions, This website is an attempt to create a centralized list of resources, petitions, and concrete actions being put forward by students, alumni, faculty, and staff
 
-## BLM
+## University-Wide
 
-https://actionnetwork.org/petitions/cmu-confront-racist-policing-in-our-community/
+* [CMU: Confront Racist Policing in Our Community](https://actionnetwork.org/petitions/cmu-confront-racist-policing-in-our-community/)
 
-https://actionnetwork.org/petitions/confronting-racial-prejudice-at-carnegie-mellon-university/
+* [Confronting Racial Prejudice at Carnegie Mellon University](https://actionnetwork.org/petitions/confronting-racial-prejudice-at-carnegie-mellon-university/)
 
-### Do Better, CMU
+* [Do Better, CMU.](http://www.cmu.wtf/)
 
-http://www.cmu.wtf/
+* [CMU Unpaid Student Labor Strike](https://tinyurl.com/cmustrike)
 
-### CMU Unpaid Labor Strike
 
-https://tinyurl.com/cmustrike
+## College- and Program- Specific
 
-### Grenell
-http://bit.ly/SignIPSLetter
+### Institute For Politics & Strategy
 
-https://actionnetwork.org/petitions/rescind-richard-grenells-senior-fellow-position/
+* [Undergraduate Student Senate's Open Letter To The Institute For Politics & Strategy](https://bit.ly/LetterToIPS)
 
-## College and Program Specific
+* [Rescind Richard Grenell’s Senior Fellow Position](https://actionnetwork.org/petitions/rescind-richard-grenells-senior-fellow-position/)
 
 ### Dietrich College
 
-https://actionnetwork.org/petitions/dietrich-college-must-become-anti-racist
+* [Dietrich College Must Become Anti-Racist](https://actionnetwork.org/petitions/dietrich-college-must-become-anti-racist)
 
-### MHCI
+### School of Computer Science
 
-https://drive.google.com/file/d/1GE9PyWNAnelwqJapKkKWBOxKWN1wukJY/view?usp=sharing
+#### MHCI
+
+* [2020 MHCI Cohort Requests and Thoughts Resulting from Racial Injustice, Diversity and Inclusion, and Design Ethics](https://drive.google.com/file/d/1GE9PyWNAnelwqJapKkKWBOxKWN1wukJY/view?usp=sharing)  
+
+
+>"There is genuine desire across the institution to embrace a more inclusive and respectful climate. But desire without collective action is not the Carnegie Mellon way." -Farnam Jahanian
+
+Have something to add? Is your program, department, or school working on something? [Send me the link and a short description me know via email](mailto:conlonnovak+demand-cmu@cmu.edu) or [submit a pull request](https://opensource.com/article/19/7/create-pull-request-github) to [this site's repo](https://github.com/ConlonNovak/demand-cmu-support/) with the change.
+
+Other questions? [Send me an email](mailto:conlonnovak+demand-cmu@cmu.edu) or find at [@Conlon_Novak](https://twitter.com/Conlon_Novak)
