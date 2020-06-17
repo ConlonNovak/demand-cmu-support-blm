@@ -6,6 +6,8 @@ Over the last several weeks, there have been many petitions, letters, and calls 
 
 * [Higher Ed’s Toothless Response to the Killing of George Floyd](https://www.chronicle.com/article/Higher-Ed-s-Toothless/248946?key=wYmokCnDzR4h9eFNudrs4jyjFBQ0SJj_RjRK70rCNPT3LG0q7DwKXlirrTVnsPeDQi1qcGJ3RVVDSElMN19nU1lKRnd2M3FleTZEXzBZazZZT1RoZVluZVlEYw&fbclid=IwAR2TrW6Bg_BNliv0J_pLn6KUAIPaBvmBeuvIdTx6jSkkDveTl2u4OWU1olc), written by Dietrich Professors Jason England and Richard Purcell
 
+* [Anti-Racism Resource Guide](https://docs.google.com/document/d/1sMG9BChHdDUhVO-FoUzsr0rU6CUhsCAFEoblrSg_EJ0/edit)
+
 ## University-Wide Actions  
 
 * [CMU: Confront Racist Policing in Our Community](https://actionnetwork.org/petitions/cmu-confront-racist-policing-in-our-community/)
@@ -24,8 +26,6 @@ Over the last several weeks, there have been many petitions, letters, and calls 
 ## Graduate Student Assembly Actions
 
 * [GSA's Response on Racism and Police Brutality](https://docs.google.com/document/d/1J1Qwos5dPn58s88gaEScTwfg5x7cwndh-kE3memKE40/edit#heading=h.8tx08o4anrgu)
-
-* [Anti-Racism Resource Guide](https://docs.google.com/document/d/1sMG9BChHdDUhVO-FoUzsr0rU6CUhsCAFEoblrSg_EJ0/edit)
 
 
 ## College- and Program- Specific Actions  
