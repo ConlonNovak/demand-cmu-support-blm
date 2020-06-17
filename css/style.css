@@ -71,7 +71,26 @@ a:visited {
   font-weight: 900;
 }
 
-.petition a {
+a .petition, .petition a {
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+}
+
+.new {
+  display: inline-block;
+  padding: 0 10px;
+  height: 15px;
+  font-size: 12px;
+  line-height: 15px;
+  border-radius: 25px;
+  background-color: #C41230;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-weight: 900;
+}
+
+a .new, .new a {
 	margin-left: auto;
 	margin-right: auto;
 	color: white;
