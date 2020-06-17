@@ -18,6 +18,8 @@
 
 * [CMU Unpaid Student Labor Strike](https://tinyurl.com/cmustrike)
 
+* [Editorial Board: University administration needs to take action](https://thetartan.org/2020/6/4/forum/black-lives-matter)
+
 ## Faculty and Staff Actions
 
 * [Concerned CMU Faculty & Staff - It's Time To Stand Up! ](https://tinyurl.com/yc8uu7er)
