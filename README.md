@@ -25,7 +25,7 @@ Over the last several weeks, there have been many petitions, letters, and calls 
 
 * [GSA's Response on Racism and Police Brutality](https://docs.google.com/document/d/1J1Qwos5dPn58s88gaEScTwfg5x7cwndh-kE3memKE40/edit#heading=h.8tx08o4anrgu)
 
-* [GSA Resource Guide](https://docs.google.com/document/d/1sMG9BChHdDUhVO-FoUzsr0rU6CUhsCAFEoblrSg_EJ0/edit)
+* [Anti-Racism Resource Guide](https://docs.google.com/document/d/1sMG9BChHdDUhVO-FoUzsr0rU6CUhsCAFEoblrSg_EJ0/edit)
 
 
 ## College- and Program- Specific Actions  
