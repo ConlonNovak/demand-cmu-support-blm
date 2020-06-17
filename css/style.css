@@ -1,0 +1,92 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Source Serif Pro', serif;
+/*	color: #C41230;
+*/}
+
+/**
+ * Smooth scrolling inside an element
+ */
+#my-element {
+	scroll-behavior: smooth;
+}
+
+/**
+ * Smooth scrolling on the whole document
+ */
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: #181a1b;
+	color: #bcbec0;
+}
+
+/*h1 {
+	color: #C41230;
+}
+*/
+h1 b {
+	color: #C41230;
+}
+
+
+a {
+	color: #32C6FF;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:visited {
+  	color: #0066FF;
+}
+
+#full-col {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%;
+	max-width:800px;
+	min-width:360px;
+}
+
+.petition {
+  display: inline-block;
+  padding: 0 10px;
+  height: 15px;
+  font-size: 12px;
+  line-height: 15px;
+  border-radius: 25px;
+  background-color: white;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-weight: 900;
+}
+
+.petition a {
+	margin-left: auto;
+	margin-right: auto;
+	color: #043673;
+}
+
+#intro {
+
+}
+
+#quote {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 13px;
+  color: #828384;
+}
+
+#bottom {
+
+}
+
