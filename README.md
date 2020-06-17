@@ -8,6 +8,8 @@
 
 ## University-Wide Actions  
 
+* [Letter to the Editor: Coalition of graduate students and student organizations asks CMU to do more](https://thetartan.org/2020/6/4/forum/anti-racism)
+
 * [CMU: Confront Racist Policing in Our Community](https://actionnetwork.org/petitions/cmu-confront-racist-policing-in-our-community/)
 
 * [Confronting Racial Prejudice at Carnegie Mellon University](https://actionnetwork.org/petitions/confronting-racial-prejudice-at-carnegie-mellon-university/)
@@ -15,6 +17,8 @@
 * [Do Better, CMU.](http://www.cmu.wtf/)
 
 * [CMU Unpaid Student Labor Strike](https://tinyurl.com/cmustrike)
+
+* [Editorial Board: University administration needs to take action](https://thetartan.org/2020/6/4/forum/black-lives-matter)
 
 ## Faculty and Staff Actions
 
