@@ -1,6 +1,6 @@
 # Demand Change at CMU  
  
-Over the last several weeks, there have many petitions, letters, and calls to action aimed at improving CMU. This website is an attempt to create a centralized list of resources, petitions, and concrete actions being put forward by concerned students, alumni, faculty, and staff.
+Over the last several weeks, there have been many petitions, letters, and calls to action aimed at improving CMU. This website is an attempt to create a centralized list of resources, petitions, and concrete actions being put forward by concerned students, alumni, faculty, and staff.
 
 ## Resources
 * [Higher Ed’s Toothless Response to the Killing of George Floyd](https://www.chronicle.com/article/Higher-Ed-s-Toothless/248946?key=wYmokCnDzR4h9eFNudrs4jyjFBQ0SJj_RjRK70rCNPT3LG0q7DwKXlirrTVnsPeDQi1qcGJ3RVVDSElMN19nU1lKRnd2M3FleTZEXzBZazZZT1RoZVluZVlEYw&fbclid=IwAR2TrW6Bg_BNliv0J_pLn6KUAIPaBvmBeuvIdTx6jSkkDveTl2u4OWU1olc), written by Dietrich Professors Jason England and Richard Purcell
@@ -14,6 +14,9 @@ Over the last several weeks, there have many petitions, letters, and calls to ac
 * [Do Better, CMU.](http://www.cmu.wtf/)
 
 * [CMU Unpaid Student Labor Strike](https://tinyurl.com/cmustrike)
+
+## Faculty and Staff Actions
+* [Concerned CMU Faculty & Staff - It's Time To Stand Up! ](https://tinyurl.com/yc8uu7er)
 
 
 ## College- and Program- Specific Actions  
@@ -34,6 +37,6 @@ Over the last several weeks, there have many petitions, letters, and calls to ac
 
 * [2020 MHCI Cohort Requests and Thoughts Resulting from Racial Injustice, Diversity and Inclusion, and Design Ethics](https://drive.google.com/file/d/1GE9PyWNAnelwqJapKkKWBOxKWN1wukJY/view?usp=sharing)  
 
-Have something to add? Is your program, department, or school working on something? [Send me the link and a short description me know via email](mailto:conlonnovak+demand-cmu@cmu.edu) or [submit a pull request](https://opensource.com/article/19/7/create-pull-request-github) to [this site's repo](https://github.com/ConlonNovak/demand-cmu-support/) with the change.
+Have something to add? Is your program, department, or school working on something? [Send me the link and a short description via email](mailto:conlonnovak+demand-cmu@cmu.edu) or open a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) or [issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) on the [Github repo](https://github.com/ConlonNovak/demand-cmu-support/) with the change.
 
 Is something broken? Do you have other questions? [Send me an email](mailto:conlonnovak+demand-cmu@cmu.edu) or message [@Conlon_Novak](https://twitter.com/Conlon_Novak)
