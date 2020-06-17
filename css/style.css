@@ -4,7 +4,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Source Serif Pro', serif;
+	 font-family: 'Roboto', sans-serif;
 /*	color: #C41230;
 */}
 
@@ -23,22 +23,24 @@ html {
 }
 
 body {
-	background-color: #181a1b;
-	color: #bcbec0;
-}
+	font-family: 'Source Serif Pro', serif;
+/*	background-color: #181a1b;
+*//*	color: #bcbec0;
+*/}
 
-/*h1 {
-	color: #C41230;
-}
-*/
+h1 {
+	font-family: 'Source Serif Pro', serif;
+/*	color: #C41230;
+*/}
+
 h1 b {
 	color: #C41230;
 }
 
 
 a {
-	color: #32C6FF;
-	text-decoration: none;
+/*	color: #32C6FF;
+*/	text-decoration: none;
 	font-weight: bold;
 }
 
@@ -63,7 +65,7 @@ a:visited {
   font-size: 12px;
   line-height: 15px;
   border-radius: 25px;
-  background-color: white;
+  background-color: black;
   text-transform: uppercase;
   font-family: sans-serif;
   font-weight: 900;
@@ -72,7 +74,7 @@ a:visited {
 .petition a {
 	margin-left: auto;
 	margin-right: auto;
-	color: #043673;
+	color: white;
 }
 
 #intro {
@@ -81,7 +83,7 @@ a:visited {
 
 #quote {
   font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 13px;
   color: #828384;
 }
