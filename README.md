@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Demand Change at CMU
 
 ## Resources
