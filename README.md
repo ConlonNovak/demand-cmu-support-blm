@@ -3,6 +3,7 @@
 Over the last several weeks, there have been many petitions, letters, and calls to action aimed at improving CMU. This website is an attempt to create a centralized list of resources, petitions, and concrete actions being put forward by concerned students, alumni, faculty, and staff.
 
 ## Resources
+
 * [Higher Ed’s Toothless Response to the Killing of George Floyd](https://www.chronicle.com/article/Higher-Ed-s-Toothless/248946?key=wYmokCnDzR4h9eFNudrs4jyjFBQ0SJj_RjRK70rCNPT3LG0q7DwKXlirrTVnsPeDQi1qcGJ3RVVDSElMN19nU1lKRnd2M3FleTZEXzBZazZZT1RoZVluZVlEYw&fbclid=IwAR2TrW6Bg_BNliv0J_pLn6KUAIPaBvmBeuvIdTx6jSkkDveTl2u4OWU1olc), written by Dietrich Professors Jason England and Richard Purcell
 
 ## University-Wide Actions  
@@ -16,7 +17,15 @@ Over the last several weeks, there have been many petitions, letters, and calls 
 * [CMU Unpaid Student Labor Strike](https://tinyurl.com/cmustrike)
 
 ## Faculty and Staff Actions
+
 * [Concerned CMU Faculty & Staff - It's Time To Stand Up! ](https://tinyurl.com/yc8uu7er)
+
+
+## Graduate Student Assembly Actions
+
+* [GSA's Response on Racism and Police Brutality](https://docs.google.com/document/d/1J1Qwos5dPn58s88gaEScTwfg5x7cwndh-kE3memKE40/edit#heading=h.8tx08o4anrgu)
+
+* [GSA Resource Guide](https://docs.google.com/document/d/1sMG9BChHdDUhVO-FoUzsr0rU6CUhsCAFEoblrSg_EJ0/edit)
 
 
 ## College- and Program- Specific Actions  
@@ -30,6 +39,8 @@ Over the last several weeks, there have been many petitions, letters, and calls 
 #### Dietrich College  
 
 * [Dietrich College Must Become Anti-Racist](https://actionnetwork.org/petitions/dietrich-college-must-become-anti-racist)
+
+* [Support Anti-Racism/Resist Anti-Blackness - Statement from the English Department](https://www.cmu.edu/dietrich/english/support-anti-racismresist-anti-blackness.html)
 
 #### School of Computer Science  
 
