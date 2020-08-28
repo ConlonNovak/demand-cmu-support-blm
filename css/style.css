@@ -76,6 +76,14 @@ a .petition, .petition a {
 	color: white;
 }
 
+.acct .petition, .petition .acct {
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
 .new {
   display: inline-block;
   padding: 0 10px;
@@ -109,3 +117,64 @@ a .new, .new a {
 
 }
 
+.countup {
+  text-align: center;
+/*  margin-bottom: 20px;
+*/}
+
+.countup .timeel {
+  display: inline-block;
+  padding: 10px;
+  background: #151515;
+  margin: 0;
+  color: white;
+  min-width: 2.6rem;
+  margin-left: 13px;
+  border-radius: 10px 0 0 10px;
+  margin-bottom: 20px; 
+}
+
+.countup span[class*="timeRef"] {
+  border-radius: 0 10px 10px 0;
+  margin-left: 0;
+  background: #C41230;
+  color: white;
+}
+
+button{
+  border-radius: 10px 10px 10px 10px;
+  background: #C41230;
+  color: white;
+  display: inline-block;
+  padding: 10px;
+  min-width: 2.6rem;
+  margin-bottom: 20px; 
+  text-align: center;
+  border-style: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.acct li {
+  padding-bottom: 1em;
+}
+
+.acct li:before { 
+  content: '\2753'; 
+  margin-left: -20px; 
+  margin-right: 5px; 
+} 
+
+.acct li.completed:before  { 
+  content: '\2705'; 
+  margin-left: -20px; 
+  margin-right: 5px; 
+} 
+
+.acct li.kinda:before  { 
+  content: '\1F7E8'; 
+  margin-left: -20px; 
+  margin-right: 5px; 
+} 

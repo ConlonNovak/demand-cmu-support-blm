@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169835758-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-169835758-1');
+	</script>
+	<script>
+	/*
+		 * Basic Count Up from Date and Time
+		 * Author: @mrwigster / https://guwii.com/bytes/count-date-time-javascript/
+		 */
+		window.onload = function() {
+		  // Month Day, Year Hour:Minute:Second, id-of-element-container
+		  countUpFromTime("Jul 2, 2020 12:00:00", 'countup1'); // ****** Change this line!
+		};
+		function countUpFromTime(countFrom, id) {
+		  countFrom = new Date(countFrom).getTime();
+		  var now = new Date(),
+		      countFrom = new Date(countFrom),
+		      timeDifference = (now - countFrom);
+		    
+		  var secondsInADay = 60 * 60 * 1000 * 24,
+		      secondsInAHour = 60 * 60 * 1000;
+		    
+		  days = Math.floor(timeDifference / (secondsInADay) * 1);
+		  hours = Math.floor((timeDifference % (secondsInADay)) / (secondsInAHour) * 1);
+		  mins = Math.floor(((timeDifference % (secondsInADay)) % (secondsInAHour)) / (60 * 1000) * 1);
+		  secs = Math.floor((((timeDifference % (secondsInADay)) % (secondsInAHour)) % (60 * 1000)) / 1000 * 1);
+
+		  var idEl = document.getElementById(id);
+		  idEl.getElementsByClassName('days')[0].innerHTML = days;
+		  idEl.getElementsByClassName('hours')[0].innerHTML = hours;
+		  idEl.getElementsByClassName('minutes')[0].innerHTML = mins;
+		  idEl.getElementsByClassName('seconds')[0].innerHTML = secs;
+
+		  clearTimeout(countUpFromTime.interval);
+		  countUpFromTime.interval = setTimeout(function(){ countUpFromTime(countFrom, id); }, 1000);
+		}
+	</script>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Demand Accountability at CMU</title>
+  	<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+  	<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  	<link href="css/normalize.css" rel="stylesheet">
+  	<link href="css/style.css" rel="stylesheet">
+  	<link rel="icon" 
+      type="image/ico" 
+      href="favicon.ico" />
+</head>
+<body>
+	<div id="full-col">
+
+		<h1><b>Demand Accountability</b> at Carnegie Mellon University</h1>
+		<p id="intro">This website is an independent, student-run progress tracker for the actions announced by President Farnam Jahanian on July 2nd, 2020.
+
+		<div class="countup" id="countup1">
+  			<span class="timeel days">00</span>
+			<span class="timeel timeRefDays">days since announcement</span>
+				</div>
+		<div class="countup" id="countup1">
+			<span class="timeel days">3*</span>
+			<span class="timeel timeRefDays">of 34 commitments upheld</span>
+		</div>
+		<div class="countup" id="countup1">
+			<a href="https://carnegiemellon.wufoo.com/forms/q16zscqd1sw10le/" target="blank_"><button>Submit Feedback to CMU Administration</button></a>
+		</div>
+		<div class="countup" id="countup1">
+			<a target="_blank" href="mailto:president@cmu.edu,garrett@cmu.edu,ginac@andrew.cmu.edu?subject=Demanding%20Accountability%20RE:%20CMU's%20Commitments%20to%20Equity%20and%20Inclusion"><button>Email CMU Administration</button></a>
+		</div>
+		<p id="quote">*includes partially upheld commitments.</p>
+
+
+
+
+		<p id="quote"><i>"The older I get, the less I listen to what people say and <b>the more I look at what they do.</b>" <br/>—Andrew Carnegie</i></p>
+		<hr>
+
+		<h2 id="accountability">Accountability</h2>
+		<h4>Key</h4>
+		<ul class="acct">
+			<li class="completed">Commitment completely upheld</li>
+			<li class="kinda">Commitment completely upheld</li>
+			<li class="">Status unknown or commitment not yet upheld</li>
+		</ul>
+		<p><a target="_blank" href="https://www.cmu.edu/leadership/president/campus-comms/2020/2020-07-02.html"><div class="petition">Official Action</div> Confronting Racism and Promoting Equity and Inclusion</a>, an official statement from CMU President Farnam Jahanian committing to a series of "34 concrete actions." These items include:</p>
+		
+
+
+		<h3>Short-Term Commitments</h3>
+		<ul class="acct">
+			<li class="kinda">New orientation sessions "addressing civility, bias, inclusion and anti-racism" [Canvas content was included, but no dedicated sessions were offered.]</li>
+			<li class="completed">New DEI orientation training module required for all incoming students</li>
+			<li>Creation of a Community Fellows program to allow "individuals with anti-racism expertise [to] spend up to a year in residence at CMU," beginning with a Fall 2020 pilot in Dietrich College.</li>
+			<li>"... a comprehensive examination of admissions and financial aid policies and practices... to formulate a set of strategies and actions for recruiting more talented students from underserved communities, with a special focus on students from Pittsburgh area public schools," and must include "a determination on the efficacy of standardized tests."</li>
+			<li>Doubled capacity for the Tartan Scholars program.</li>
+			<li>Inclusion of DEI statement and reporting information in course syllabi.</li>
+			<li>Partnership with Vibrant Pittsburgh and commitment to "provide guidance and support for the development of internal affinity groups to serve members of our community."</li>
+			<li>Equip all CMUPD officers with body cameras.</li>
+			<li class="completed"><a href="https://www.cmu.edu/police/reporting-policy-training/index.html" target="black_">Published</a> and committed to continuing to update information on and refine existing CMUPD policies.</li>
+			<li>"[Fund] a new Center for African American Urban Studies and the Economy initiative... [to] create a series of seminars and workshops on critical societal topics, such as racialized policing, mass incarceration and racial disparities within health care," launching Fall 2020</li>
+			<li>"[Launch] a seed funding program to support the expansion of community-driven social innovation projects, especially those that are aimed at dismantling structural barriers to opportunity, promoting shared prosperity, and supporting cultural expression by diverse artists," in Fall 2020</li>
+			<li>"[Creation] of a new Community Engagement website... [that will] highlight our community-facing efforts, engage students, staff and faculty interested in participating in this work, and allow members of the Pittsburgh community to locate the right university resources and contacts," launching Fall 2020.</li>
+		</ul>
+		<h3>Medium-Term Commitments</h3>
+		<ul class="acct">
+			<li>New courses on "bias, discrimination, anti-racism, anti-sexism and cultural sensitivity"</li>
+			<li>Diversification of guest speakers and increased incorporation into "the educational experience" by Provost Garrett</li>
+			<li>Expansion of "Responsible Conduct of Research (RCR) curricula... to include training on Diversity, Equity and Inclusion (DEI) topics for graduate student researchers and faculty"</li>
+			<li>Professional development for faculty and staff on "a broad range of DEI topics," including cultural sensitivity, civil discourse, prejudice, anti-racism, misinformation and bias.</li>
+			<li>Expanded fellowship programs for underrepresented professional masters and doctoral students.</li>
+			<li>Expansion of "peer education and leadership development opportunities" as well as mentorship programs with "alumni and career and professional development networks" via the Center for Student Diversity and Inclusion.</li>
+			<li>Requirement for vendors and contractors to "describe their commitments to diversity and equitable and inclusive practices in writing" for new contracts, and to provide "select professional development training... especially related to DEI" to them.</li>
+			<li>"...[Fund] the development of new courses and degree programs that will further enhance our academic offerings in Black history, art and culture, and issues related to race and social justice."</li>
+			<li>"[Form] a university-wide committee of faculty and other stakeholders to study and recommend the creation of a cross-college research center or institute that is focused on issues germane to racism and social justice."</li>
+		</ul>
+
+		<h3>Medium- to Long-Term Commitments</h3>
+		<ul class="acct">
+			<li>Funding of cross-college cluster hires to "build greater scholarly capacity and expertise" in areas at the intersection of the humanities, sciences, arts, and technology.</li>
+			<li>"[Development of] educational seminars and networking events to help women- and minority- owned businesses launch and thrive, especially those in underserved communities in the Pittsburgh region."</li>
+		</ul>
+
+		<h3>Long-Term Commitments</h3>
+		<ul class="acct">
+			<li>Creation of a Faculty Opportunity Fund to support the "recruitment, retention and development of outstanding scholars in all fields who will contribute to diversity and equity at CMU", the pilot of which is to launch Fall 2020, as well as the expansion of the President’s Postdoctoral Fellowship Program.</li>
+			<li>Publication of an annual report "on the composition of our faculty and staff, and progress in recruiting." </li>
+			<li>Publish an annual report on police activities, consolidating information already required to be disclosed by the Clery Act, to begin July 2021.</li>
+			<li>"[Convene] a Presidential Review Board to review the CMU Police Department and assess its policies and operations, including how it engages with our community" in Fall 2021.</li>
+			<li>New "emphasis on reaching students from our local region" for the Summer Academy for Math and Science, Summer 2021</li>
+			<li>Launch of a new CMU Humanities and Arts pipeline program to provide  general support for, as well as scholarships for admitted students, for Pittsburgh high school students preparing for college, with an emphasis on underserved communities, launching Summer 2021.</li>
+		</ul>
+
+		<h3>Commitments with Unspecified Timeframes</h3>
+		<ul class="acct">
+			<li>Launch of "an expanded website dedicated to diversity, equity, and inclusion" that will centralize resources, share progress towards commitments, allow for incident reporting, and publicize "relevant organizations and events" sometime this fall.</li>
+			<li>Expansion of the Provost Inclusive Teaching Fellows program.</li>
+			<li>Creation of a "committee of faculty and staff to look at our policies, structures and systemic issues in order to promote greater equity in our recruitment, retention, development and promotion efforts."</li>
+			<li>"CMU leadership will continue to provide advocacy for [the important work [of police reform within the Pittsburgh Bureau of Police (PBP)]" [Not counted in 34 concrete actions]</li>
+			<li>"A review of CMU’s processes for community engagement in community-based research," after it became clear that Metro21's "Pittsburgh Crime Hot Spot" predictive policing research "should have more vigorously engaged the community in its early stages." [Not counted in 34 concrete actions]</li>
+			<li>"[University] libraries commit to [reflecting the diversity of the CMU community] with the creation of a fund to support the collection and processing of archives that represent underrepresented groups."</li>
+			<li>Expansion of the Supplier Diversity Program to "include a greater focus on procurement from locally owned businesses" with a goal of "15% small business participation in construction, architecture, engineering and related services, with a focus on minority-, women- and veteran-owned businesses."</li>
+			<li>"...building on success of the Executive Leadership Academy" [Editor's note: this appears not to be concrete, actionable, or new, as no new actions are proposed, and the stated goals of the Executive Leadership Academy already contain the stated constraints.]</li>
+		</ul>
+
+
+		<br/>
+		<hr>
+		<div id="bottom">
+			<p><i>Have an update for this page?</i> Submit progress and completions via</p>
+			<ul>
+				<li><p>Google Forms: <a target="_blank" href="https://forms.gle/CgzMKSFbajpf6q2dA">Submit a link and a short description of the progress, anonymously if desired</a></p></li>
+				<li><p>Email: <a target="_blank" href="mailto:conlonnovak+demand-cmu@cmu.edu">Send a link and a short description of the progress</a></p></li>
+				<li><p>GitHub: Open a <a target="_blank" href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request">pull request</a> or <a target="_blank" href="https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue">issue</a> on the <a target="_blank" href="https://github.com/ConlonNovak/demand-cmu-support/">GitHub repo</a> with evidence of the progress</li>
+			</ul>
+
+			This site is currently maintained by Conlon Novak, who can be reached by <a target="_blank" href="mailto:conlonnovak+demand-cmu@cmu.edu">email</a>. As a student graduating this coming semester, I am actively looking to transfer ownership and maintenance of this site. If you are interested in helping to develop, maintain, or support this site into the future in any capacity—let's chat!</p>
+
+			<p>Last updated: <b><a target="_blank" href="https://github.com/ConlonNovak/demand-cmu-support/commits/master">8/28/20</a></b></p>
+<!-- 
+			<iframe src="https://tylerlh.github.com/github-latest-commits-widget/?username=ConlonNovak&repo=demand-cmu-support&limit=1"
+  allowtransparency="true" frameborder="0" scrolling="no" width="502px" height="120px"></iframe> -->
+
+		</div>
+	</div>
+</body>
+
+</html>
