@@ -157,6 +157,10 @@ button:hover {
     cursor: pointer;
 }
 
+ul.acct {
+  list-style-type: none;
+}
+
 .acct li {
   padding-bottom: 1em;
 }
